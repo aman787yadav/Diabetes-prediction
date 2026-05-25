@@ -1,9 +1,9 @@
 # Diabetes Prediction System using Machine Learning
 
-**Submitted by:** Devanshu Talreja  
-**Course:** Artificial Intelligence and Machine Learning  
+**Submitted by:** AMAN YADAV  
+**PROJECT:** Artificial Intelligence and Machine Learning  
 **College:** Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore  
-**Submission Date:** 8 March 2026  
+**ROLL NO:** 2210DMBCSE12083
 
 ---
 
