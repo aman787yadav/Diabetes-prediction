@@ -10,7 +10,7 @@ import {
   Legend, CartesianGrid, PieChart, Pie, Cell
 } from 'recharts';
 
-const API_BASE = 'http://localhost:5000/api';
+const API_BASE = 'https://diabetes-prediction-ikom.onrender.com/api';
 
 function App() {
   const [activeTab, setActiveTab] = useState('home');
