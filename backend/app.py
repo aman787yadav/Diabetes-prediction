@@ -250,6 +250,12 @@ def get_stats():
         return jsonify(stats), 200
     except Exception as e:
         return jsonify({"error": f"Could not fetch stats: {str(e)}"}), 500
+    
+@app.route("/")
+def home():
+    return jsonify({
+        "message": "Diabetes Prediction API is running successfully"
+    })
 
 if __name__ == '__main__':
     # Render (and other cloud providers) provide the port via the PORT environment variable.
